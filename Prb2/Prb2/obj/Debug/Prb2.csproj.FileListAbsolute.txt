@@ -1,0 +1,7 @@
+E:\AN2\PIU\Lab03\Prb2\Prb2\bin\Debug\Prb2.exe.config
+E:\AN2\PIU\Lab03\Prb2\Prb2\bin\Debug\Prb2.exe
+E:\AN2\PIU\Lab03\Prb2\Prb2\bin\Debug\Prb2.pdb
+E:\AN2\PIU\Lab03\Prb2\Prb2\obj\Debug\Prb2.csprojAssemblyReference.cache
+E:\AN2\PIU\Lab03\Prb2\Prb2\obj\Debug\Prb2.csproj.CoreCompileInputs.cache
+E:\AN2\PIU\Lab03\Prb2\Prb2\obj\Debug\Prb2.exe
+E:\AN2\PIU\Lab03\Prb2\Prb2\obj\Debug\Prb2.pdb
